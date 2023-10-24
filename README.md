@@ -19,8 +19,8 @@
 
 ## テーブル設計
 
-<img src="resources/img/table.drawio.png">
+<img src="src/resources/img/table.drawio.png">
 
 ## ER図
 
-<img src="resources/img/ER.drawio.png">
+<img src="src/resources/img/ER.drawio.png">
